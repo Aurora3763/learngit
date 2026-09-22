@@ -1,5 +1,7 @@
 public class helloword{
     public static void main(String[]args){
-        Systen.out.println("helloword");
+        for(int i = 0,i < 10,i++){
+            System.out.println("helloword");
+        }
     }
 }
